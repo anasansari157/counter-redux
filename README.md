@@ -1,4 +1,4 @@
-# Simple Counter in Redux
+# Simple Counter using Redux
 
 ### Tech. used:
 
