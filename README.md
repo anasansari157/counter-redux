@@ -1,4 +1,5 @@
-#Simple Counter in Redux
+# Simple Counter in Redux
 
-###Tech. used:
+### Tech. used:
+
 Redux and JS
